@@ -1,3 +1,3 @@
 Collecting-data-from-mongo-db-
-Collecting data from  mongo_db and storing it in a dataframe
+Collecting data from  mongo database and storing it in a Comma-Seperated-Values(CSV) File
 
